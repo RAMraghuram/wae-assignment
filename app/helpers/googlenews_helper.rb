@@ -1,0 +1,2 @@
+module GooglenewsHelper
+end
